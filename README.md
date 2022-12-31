@@ -1,8 +1,10 @@
+<!---
 - 👋 Hi, I’m @elangendorff
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 elangendorff/elangendorff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,11 +83,6 @@ Icon colors https://simpleicons.org/
 ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 
-
-
-
-
-
-
-
+### Group Project for Data Analysis Boot Camp
+[To Fly or Not to Fly](https://github.com/Bdataplanet/To_fly_or_not_to_fly)
 
